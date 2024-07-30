@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/rakeshshravz/table-app/static/css/main.61f72c9c.css",
+    "main.js": "/rakeshshravz/table-app/static/js/main.970cb8ac.js",
+    "static/js/453.748460bd.chunk.js": "/rakeshshravz/table-app/static/js/453.748460bd.chunk.js",
+    "static/media/inter-latin-ext-400-normal.woff": "/rakeshshravz/table-app/static/media/inter-latin-ext-400-normal.40b3b0d5e09a90fb6e3e.woff",
+    "static/media/inter-latin-ext-400-normal.woff2": "/rakeshshravz/table-app/static/media/inter-latin-ext-400-normal.0f9e8d4e940df8f6edfe.woff2",
+    "static/media/inter-latin-400-normal.woff": "/rakeshshravz/table-app/static/media/inter-latin-400-normal.08a02fd275ecea6ef662.woff",
+    "static/media/inter-latin-400-normal.woff2": "/rakeshshravz/table-app/static/media/inter-latin-400-normal.f1535355a7df553be385.woff2",
+    "static/media/inter-cyrillic-ext-400-normal.woff": "/rakeshshravz/table-app/static/media/inter-cyrillic-ext-400-normal.cd2ad378115f549d3c5b.woff",
+    "static/media/inter-greek-400-normal.woff": "/rakeshshravz/table-app/static/media/inter-greek-400-normal.1eeaf1d0bde712085ffc.woff",
+    "static/media/inter-cyrillic-ext-400-normal.woff2": "/rakeshshravz/table-app/static/media/inter-cyrillic-ext-400-normal.ac62c8eba7f954b48546.woff2",
+    "static/media/inter-cyrillic-400-normal.woff": "/rakeshshravz/table-app/static/media/inter-cyrillic-400-normal.fa67b2dd0048a5433bd5.woff",
+    "static/media/inter-greek-400-normal.woff2": "/rakeshshravz/table-app/static/media/inter-greek-400-normal.be0e76b30a7663adf9eb.woff2",
+    "static/media/inter-greek-ext-400-normal.woff": "/rakeshshravz/table-app/static/media/inter-greek-ext-400-normal.708f2f7425851a3b7633.woff",
+    "static/media/inter-cyrillic-400-normal.woff2": "/rakeshshravz/table-app/static/media/inter-cyrillic-400-normal.fa78d8d6788399bf6527.woff2",
+    "static/media/inter-vietnamese-400-normal.woff": "/rakeshshravz/table-app/static/media/inter-vietnamese-400-normal.6eab7f5e6cae783b49bf.woff",
+    "static/media/inter-greek-ext-400-normal.woff2": "/rakeshshravz/table-app/static/media/inter-greek-ext-400-normal.1e2b9039d9ecdbea5d80.woff2",
+    "static/media/inter-vietnamese-400-normal.woff2": "/rakeshshravz/table-app/static/media/inter-vietnamese-400-normal.5952d3d3c5df5a2f8e09.woff2",
+    "static/media/logo.svg": "/rakeshshravz/table-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rakeshshravz/table-app/index.html",
+    "main.61f72c9c.css.map": "/rakeshshravz/table-app/static/css/main.61f72c9c.css.map",
+    "main.970cb8ac.js.map": "/rakeshshravz/table-app/static/js/main.970cb8ac.js.map",
+    "453.748460bd.chunk.js.map": "/rakeshshravz/table-app/static/js/453.748460bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61f72c9c.css",
+    "static/js/main.970cb8ac.js"
+  ]
+}
